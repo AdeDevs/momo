@@ -58,6 +58,7 @@ header nav ul {
 header nav ul li {
   padding: 5px 10px;
   margin: 0 10px;
+  font-size: inherit;
 }
 
 nav ul li {
@@ -174,8 +175,14 @@ section div p {
   .mo-home {
     background-image: url(../assets/1723490436039.jpg);
   }
+  header nav  ul li {
+    font-size: 15px;
+  }
+  header nav h1 {
+    font-size: 15px;
+  }
   main div h1 {
-    font-size: 5em;
+    font-size: 4em;
     font-family: "Young Serif";
     text-align: center;
   }
